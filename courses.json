@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Flask REST API",
+        "description": "Learn Flask basics",
+        "target_date": "2026-04-30",
+        "status": "Not Started"
+    },
+    {
+        "id": 2,
+        "name": "Flask Mastery",
+        "description": "Deep dive into Flask REST APIs",
+        "target_date": "2026-05-01",
+        "status": "Not Started",
+        "created_at": "2026-02-26 20:58:32"
+    },
+    {
+        "id": 3,
+        "name": "Python Backend",
+        "description": "Learn Flask and REST APIs",
+        "target_date": "2026-06-01",
+        "status": "Not Started",
+        "created_at": "2026-02-26 21:03:18"
+    }
+]
